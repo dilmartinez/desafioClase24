@@ -1,0 +1,94 @@
+[
+    {
+        "author": {
+            "mail": "aaa@m",
+            "name": "admin",
+            "lastName": "admin",
+            "age": 21,
+            "username": "Marrrr",
+            "avatar": "https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_reddit_robot-128.png"
+        },
+        "text": "Bienvenido al canal de chat",
+        "date": "17/1/2023 11:55:55 AM",
+        "id": 1
+    },
+    {
+        "author": {
+            "mail": "dcm@2",
+            "name": "admin2",
+            "lastName": "admin2",
+            "age": 21,
+            "username": "gggggg",
+            "avatar": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png"
+        },
+        "text": "Prueba 2",
+        "date": "17/1/2023 12:01:12 PM",
+        "id": 2
+    },
+    {
+        "author": {
+            "mail": "dass@3",
+            "name": "Lu",
+            "lastName": "Mendez",
+            "age": "21",
+            "username": "yoo",
+            "avatar": "https://cdn4.iconfinder.com/data/icons/people-avatar-filled-outline/64/girl_female_adult_people_woman_doctor_avatar-2-128.png"
+        },
+        "text": "happyyy",
+        "date": "17/1/2023 12:06:33 PM",
+        "id": 3
+    },
+    {
+        "author": {
+            "mail": "m@4",
+            "name": "Maria",
+            "lastName": "paz",
+            "age": "27",
+            "username": "tet",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteK8zsq_xcB7Sev9b02WlB-feEBTI8oIPAg&usqp=CAU"
+        },
+        "text": "hola",
+        "date": "17/1/2023 12:10:31 PM",
+        "id": 4
+    },
+    {
+        "author": {
+            "mail": "aaa@m",
+            "name": "admin",
+            "lastName": "admin",
+            "age": 21,
+            "username": "Marrrr",
+            "avatar": "https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_reddit_robot-128.png"
+        },
+        "text": "prueba",
+        "date": "17/1/2023 14:50:20 PM",
+        "id": 5
+    },
+    {
+        "author": {
+            "mail": "m@5",
+            "name": "testin",
+            "lastName": "testin",
+            "age": "24",
+            "username": "ddmso",
+            "avatar": "https://cdn2.iconfinder.com/data/icons/scenarium-vol-1-2/128/022_workspace_workplace_beard_guy_man_laptop_computer-128.png"
+        },
+        "text": "juju",
+        "date": "16/1/2023 10:10:30 PM",
+        "id": 6
+    },
+    {
+        "author": {
+            "mail": "aaa@m",
+            "name": "admin",
+            "lastName": "admin",
+            "age": 21,
+            "username": "Marrrr",
+            "avatar": "https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_reddit_robot-128.png"
+        },
+        "text": "Final",
+        "date": "17/1/2023 15:08:55 PM",
+        "id": 7
+    }
+    
+]
